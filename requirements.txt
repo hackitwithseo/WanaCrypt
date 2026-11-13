@@ -1,0 +1,4 @@
+pyinstaller>=6.16
+pycryptodome>=3.20
+pyzipper>=0.3.6
+pillow>=10.0
